@@ -274,13 +274,13 @@ export const stores = [
     linkGoogle: "https://www.google.com/maps/place/Nh%C3%A0+An+homestay+Ph%C6%B0%E1%BB%9Bc+H%E1%BA%A3i/@10.4337705,107.2925253,19.71z/data=!4m6!3m5!1s0x317575c25818fdff:0xaf5a49472ec88457!8m2!3d10.4337907!4d107.2927661!16s%2Fg%2F11x5p28pr2?entry=ttu&g_ep=EgoyMDI2MDcxNS4wIKXMDSoASAFQAw%3D%3D",
     phone: "0353 852 079"
   },
-    {
-    id: 1,
-    name: "Đèo Nước ngọt",
-    lat: 10.3806,
-    lng: 107.2565,
-    address: "DT994",
-    linkGoogle: "https://www.google.com/maps/place/%C4%90%C3%A8o+N%C6%B0%E1%BB%9Bc+Ng%E1%BB%8Dt/@10.3885006,107.2607377,14.82z/data=!4m9!1m2!2m1!1zTeG7uSBUaHXhuq1uLCBQaHVvYyBIYWkgVG93bnNoaXAsIExvbmcgRGF0IERpc3RyaWN0LCBCw6AgUuG7i2EgLSBWxaluZyBUw6B1IFByb3ZpbmNlLCBWaWV0bmFt!3m5!1s0x3175764516044feb:0xc78a879dab5cc113!8m2!3d10.3805369!4d107.2565182!16s%2Fg%2F11c52tl_00?entry=ttu&g_ep=EgoyMDI2MDYyMy4wIKXMDSoASAFQAw%3D%3D"
-  },
+  //   {
+  //   id: 1,
+  //   name: "Đèo Nước ngọt",
+  //   lat: 10.3806,
+  //   lng: 107.2565,
+  //   address: "DT994",
+  //   linkGoogle: "https://www.google.com/maps/place/%C4%90%C3%A8o+N%C6%B0%E1%BB%9Bc+Ng%E1%BB%8Dt/@10.3885006,107.2607377,14.82z/data=!4m9!1m2!2m1!1zTeG7uSBUaHXhuq1uLCBQaHVvYyBIYWkgVG93bnNoaXAsIExvbmcgRGF0IERpc3RyaWN0LCBCw6AgUuG7i2EgLSBWxaluZyBUw6B1IFByb3ZpbmNlLCBWaWV0bmFt!3m5!1s0x3175764516044feb:0xc78a879dab5cc113!8m2!3d10.3805369!4d107.2565182!16s%2Fg%2F11c52tl_00?entry=ttu&g_ep=EgoyMDI2MDYyMy4wIKXMDSoASAFQAw%3D%3D"
+  // },
 ];
 
