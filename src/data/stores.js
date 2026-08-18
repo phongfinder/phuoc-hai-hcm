@@ -44,31 +44,6 @@ export const stores = [
     phone: "02543 678 679"
   },
   {
-    id: 8,
-    name: "Hồ Sở Bông ",
-    lat: "10.423966213221238",
-    lng: "107.26661222039687",
-    address: "Đ Phước Hưng Phước Hải",
-    linkGoogle: "https://www.google.com/maps/place/H%E1%BB%93+S%E1%BB%9F+B%C3%B4ng/@10.4235841,107.2660774,19.12z/data=!4m14!1m7!3m6!1s0x317575418423b339:0x539c807c9f2a17c!2zSOG7kyBT4bufIELDtG5n!8m2!3d10.4239084!4d107.266626!16s%2Fg%2F11r108lhj0!3m5!1s0x317575418423b339:0x539c807c9f2a17c!8m2!3d10.4239084!4d107.266626!16s%2Fg%2F11r108lhj0?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D",
-  },
-  {
-    id: 9,
-    name: "Quảng Trường Phước Hải",
-    lat: "10.41777766582723",
-    lng: "107.2873191383831  ",
-    address: "Đ Võ Thị Sáu",
-    linkGoogle: "https://www.google.com/maps/place/Qu%E1%BA%A3ng+tr%C6%B0%E1%BB%9Dng+Ph%C6%B0%E1%BB%9Bc+H%E1%BA%A3i/@10.4177125,107.2873039,19.12z/data=!4m14!1m7!3m6!1s0x31759f480f0e8057:0x904388b2bdec003d!2zTMOgbmcgQ2jDoGkgUGjGsOG7m2MgSOG6o2k!8m2!3d10.4249021!4d107.2949434!16s%2Fg%2F11s4dpxhv8!3m5!1s0x317575b3abc1100f:0xe5e874c122b10638!8m2!3d10.4177362!4d107.2873347!16s%2Fg%2F11sv1cdt8k?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D",
-  },
-  {
-    id: 10,
-    name: "Chợ Phước Hải",
-    lat: "10.418381905491982",
-    lng: "107.28677273638989",
-    address: "Đ Võ Thị Sáu",
-    linkGoogle: "https://www.google.com/maps/place/Ch%E1%BB%A3+Ph%C6%B0%E1%BB%9Bc+H%E1%BA%A3i/@10.4181258,107.2867705,19.72z/data=!4m14!1m7!3m6!1s0x31759f480f0e8057:0x904388b2bdec003d!2zTMOgbmcgQ2jDoGkgUGjGsOG7m2MgSOG6o2k!8m2!3d10.4249021!4d107.2949434!16s%2Fg%2F11s4dpxhv8!3m5!1s0x317575f9ba0c4c7d:0x8d6adc68dddba491!8m2!3d10.4183205!4d107.2867768!16s%2Fg%2F1tczgzqc?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D",
-  },
-  
-  {
     id: 12,
     name: "Twins Hotel ",
     lat: "10.415245871227832",
@@ -221,6 +196,24 @@ export const stores = [
     phone: "0828 978 978"
   },
   {
+    id: 56,
+    name: "Cá Nhỏ Homestay",
+    lat: "10.430584288323484",
+    lng: "107.30004587360357",
+    address: "Đ Trần Hưng Đạo (Bờ Kè Phước Hải)",
+    linkGoogle: "https://www.google.com/maps/place/C%C3%A1+Nh%E1%BB%8F+Homestay/@10.4303654,107.2928933,15.5z/data=!4m9!3m8!1s0x31759f004193ca7f:0xcdca4aab9fb98e61!5m2!4m1!1i2!8m2!3d10.4297668!4d107.300135!16s%2Fg%2F11w57t651l?entry=ttu&g_ep=EgoyMDI2MDgwNS4xIKXMDSoASAFQAw%3D%3D",
+    phone: "0979 962 302"
+  },
+  {
+    id: 57,
+    name: "Sơn Hà Homestay",
+    lat: "10.425651947543361",
+    lng: "107.29554182425304",
+    address: "Đ Trần Hưng Đạo (Bờ Kè Phước Hải)",
+    linkGoogle: "https://www.google.com/maps/place/S%C6%A1n+H%C3%A0+Homestay+3/@10.4256356,107.2952319,19.5z/data=!4m6!3m5!1s0x31759f001950a891:0x5f472d3e15a8adaf!8m2!3d10.425586!4d107.2955606!16s%2Fg%2F11wpzslq5_?entry=ttu&g_ep=EgoyMDI2MDgwNS4xIKXMDSoASAFQAw%3D%3D",
+    phone: "0934 444 094"
+  },
+  {
     id: 46,
     name: "Sea Breeze Homestay",
     lat: "10.430712380196887",
@@ -274,13 +267,14 @@ export const stores = [
     linkGoogle: "https://www.google.com/maps/place/Nh%C3%A0+An+homestay+Ph%C6%B0%E1%BB%9Bc+H%E1%BA%A3i/@10.4337705,107.2925253,19.71z/data=!4m6!3m5!1s0x317575c25818fdff:0xaf5a49472ec88457!8m2!3d10.4337907!4d107.2927661!16s%2Fg%2F11x5p28pr2?entry=ttu&g_ep=EgoyMDI2MDcxNS4wIKXMDSoASAFQAw%3D%3D",
     phone: "0353 852 079"
   },
-    {
-    id: 1,
-    name: "Đèo Nước ngọt",
-    lat: 10.3806,
-    lng: 107.2565,
-    address: "DT994",
-    linkGoogle: "https://www.google.com/maps/place/%C4%90%C3%A8o+N%C6%B0%E1%BB%9Bc+Ng%E1%BB%8Dt/@10.3885006,107.2607377,14.82z/data=!4m9!1m2!2m1!1zTeG7uSBUaHXhuq1uLCBQaHVvYyBIYWkgVG93bnNoaXAsIExvbmcgRGF0IERpc3RyaWN0LCBCw6AgUuG7i2EgLSBWxaluZyBUw6B1IFByb3ZpbmNlLCBWaWV0bmFt!3m5!1s0x3175764516044feb:0xc78a879dab5cc113!8m2!3d10.3805369!4d107.2565182!16s%2Fg%2F11c52tl_00?entry=ttu&g_ep=EgoyMDI2MDYyMy4wIKXMDSoASAFQAw%3D%3D"
+  {
+    id: 60,
+    name: "Trump Homestay",
+    lat: "10.426151335123594",
+    lng: "107.29494554991709",
+    address: "Đ Ngô Quyền",
+    linkGoogle: "https://www.google.com/maps/place/Trump+Homestay+-+Ph%C6%B0%E1%BB%9Bc+H%E1%BA%A3i%7C+Homestay+Ph%C6%B0%E1%BB%9Bc+H%E1%BA%A3i/@10.4259881,107.2946497,19.5z/data=!4m17!1m7!3m6!1s0x31759f001950a891:0x5f472d3e15a8adaf!2zU8ahbiBIw6AgSG9tZXN0YXkgMw!8m2!3d10.425586!4d107.2955606!16s%2Fg%2F11wpzslq5_!3m8!1s0x31759f14fd29b655:0x8fab073efb5cba22!5m2!4m1!1i2!8m2!3d10.4261085!4d107.2949516!16s%2Fg%2F11vhk5p9p7?entry=ttu&g_ep=EgoyMDI2MDgwNS4xIKXMDSoASAFQAw%3D%3D",
+    phone: "0943 920 718"
   },
 ];
 
