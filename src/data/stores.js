@@ -15,6 +15,7 @@ export const stores = [
     lng: 107.2730,
     address: "Đ Võ Thị Sáu",
     linkGoogle: "https://www.google.com/maps/place/Long+H%E1%BA%A3i+Resort+Lan+R%E1%BB%ABng/@10.3996749,107.2722441,18.72z/data=!4m9!1m2!2m1!1zTeG7uSBUaHXhuq1uLCBQaHVvYyBIYWkgVG93bnNoaXAsIExvbmcgRGF0IERpc3RyaWN0LCBCw6AgUuG7i2EgLSBWxaluZyBUw6B1IFByb3ZpbmNlLCBWaWV0bmFt!3m5!1s0x3175760e07e81a8f:0x56aac170953d0264!8m2!3d10.3999811!4d107.2726402!16s%2Fg%2F11l1bqm_4s?entry=ttu&g_ep=EgoyMDI2MDYyMy4wIKXMDSoASAFQAw%3D%3D",
+    phone: "0254 367 9939"
   },
   {
     id: 4,
@@ -95,6 +96,7 @@ export const stores = [
     lng: "107.28584973241544",
     address: "Đ Võ Thị Sáu ",
     linkGoogle: "https://www.google.com/maps/place/Homestay+Song+Th%C6%B0/@10.4166897,107.2857241,20.63z/data=!4m14!1m7!3m6!1s0x31759f480f0e8057:0x904388b2bdec003d!2zTMOgbmcgQ2jDoGkgUGjGsOG7m2MgSOG6o2k!8m2!3d10.4249021!4d107.2949434!16s%2Fg%2F11s4dpxhv8!3m5!1s0x31757500453991af:0xaade4d2d6a77d0ea!8m2!3d10.4168098!4d107.2858838!16s%2Fg%2F11zc3kpyr3?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D",
+    phone: "0368 726 809"
   },
   {
     id: 18,
