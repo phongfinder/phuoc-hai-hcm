@@ -50,10 +50,11 @@ export default function Sidebar({ stores, onSelect }) {
             className="item"
             onClick={() => onSelect(store)}
           >
-            <b>&#x2713; &nbsp; {store.name}</b>
-            <p>&#128663; {store.address}</p>
-            <a href={store.linkGoogle} target="_blank" >&#8594; Gooogle Maps</a>
+            <p>&#x2713; &nbsp; {store.name}</p>
+            {/* <p>&#128663; {store.address}</p> */}
+            <a href={store.linkGoogle} target="_blank" >&#8594;Open Gooogle Maps</a>
             <p>☎ &nbsp; {store.phone}</p>
+             <hr></hr>
           </div>
           
         ))}
