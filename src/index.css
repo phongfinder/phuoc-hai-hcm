@@ -76,15 +76,15 @@ a {
   }
 
   .item {
-    padding: 12px;
-    font-size: 15px;
+    /* padding: 12px; */
+    font-size: 14px;
   }
 
   .item b {
-    font-size: 15px;
+    font-size: 14px;
   }
 
   .item p {
-    font-size: 15px;
+    font-size: 14px;
   }
 }
