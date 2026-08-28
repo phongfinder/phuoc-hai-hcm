@@ -61,7 +61,8 @@ a {
     left: 0;
     right: 0;
 
-    height: 40%;
+    height: 45%;
+    width: 300px;
     background: #fff;
 
     border-top-left-radius: 10px;
@@ -74,16 +75,16 @@ a {
     padding: 10px;
   }
 
-  /* .item {
+  .item {
     padding: 12px;
-    font-size: 14px;
+    font-size: 15px;
   }
 
   .item b {
-    font-size: 14px;
+    font-size: 15px;
   }
 
   .item p {
-    font-size: 12px;
-  } */
+    font-size: 15px;
+  }
 }
