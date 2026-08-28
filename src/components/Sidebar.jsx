@@ -52,8 +52,8 @@ export default function Sidebar({ stores, onSelect }) {
           >
             <p>&#x2713; &nbsp; {store.name}</p>
             {/* <p>&#128663; {store.address}</p> */}
-            <a href={store.linkGoogle} target="_blank" >&#8594; Gooogle Maps (Xem Chỉ Đường)</a>
             <p>☎ &nbsp; {store.phone}</p>
+            <a href={store.linkGoogle} target="_blank" >&#8594; Gooogle Maps (Xem Chỉ Đường)</a>
              <hr></hr>
           </div>
           
